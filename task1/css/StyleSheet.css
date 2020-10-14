@@ -1,0 +1,82 @@
+﻿body {
+    margin:0;
+    padding:0 0 0 20px;
+}
+
+*{
+    font-family:'Cambria Math';
+    transition:1s ease-in-out all;
+    font-size:30px;
+}
+
+.div{
+    width:1000px;
+    margin:50px auto;
+    padding:20px;
+    background:#808080;
+    border-radius:4px;
+    border:2px solid #9c9999;
+    text-align:center;
+}
+
+.p1 {
+    width: 96%;
+    text-align: center;
+    margin: 10px;
+    padding: 10px;
+    background: #ea9d9d;
+    border: 2px solid #000000;
+    border-radius: 3px;
+}
+
+.p2 {
+    width: 20%;
+    text-align: center;
+    margin: 10px;
+    padding: 10px;
+    background: #ea9d9d;
+    border: 2px solid #000000;
+    border-radius: 3px;
+}
+
+.p3 {
+    width: 20%;
+    text-align: center;
+    margin: 10px;
+    padding: 10px;
+    background: #ea9d9d;
+    border: 2px solid #000000;
+    border-radius: 3px;
+}
+
+.p4 {
+    width: 45%;
+    text-align: center;
+    margin: 10px ;
+    padding: 10px;
+}
+
+input {
+    width: 30%;
+    text-align: center;
+    margin: 10px;
+    padding: 10px;
+    background: #ea9d9d;
+    border: 2px solid #000000;
+    border-radius: 3px;
+}
+
+button{
+    background:#ef7474;
+    border:2px solid #9c9999;
+    border-radius:10px;
+    width:14%
+}
+
+.p2, .aa {
+    display: inline-block
+}
+
+.p3, .bb {
+    display: inline-block
+}
